@@ -1,20 +1,20 @@
 {
    "delivery":[
       {
-         "icon":"https://72.arrowhitech.net/pt2/th/images/30days.png",
+         "icon":"https://raw.githubusercontent.com/soncp/thithuchanh/master/images/30days.png",
          "title":"30 day money back guarantee"
       },
       {
-         "icon":"https://72.arrowhitech.net/pt2/th/images/Union.png",
+         "icon":"https://raw.githubusercontent.com/soncp/thithuchanh/master/images/Union.png",
          "title":"Support teams across the world"
       },
       {
-         "icon":"https://72.arrowhitech.net/pt2/th/images/safe.png",
+         "icon":"https://raw.githubusercontent.com/soncp/thithuchanh/master/images/safe.png",
          "title":"Safe & Secure online payment"
       }
    ],
    "logo":{
-      "url":"https://72.arrowhitech.net/pt2/th/images/LOGO.png"
+      "url":"https://raw.githubusercontent.com/soncp/thithuchanh/master/images/LOGO.png"
    },
    "footer_links":{
       "col1":{
