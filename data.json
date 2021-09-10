@@ -1,0 +1,166 @@
+{
+   "delivery":[
+      {
+         "icon":"https://72.arrowhitech.net/pt2/th/images/30days.png",
+         "title":"30 day money back guarantee"
+      },
+      {
+         "icon":"https://72.arrowhitech.net/pt2/th/images/Union.png",
+         "title":"Support teams across the world"
+      },
+      {
+         "icon":"https://72.arrowhitech.net/pt2/th/images/safe.png",
+         "title":"Safe & Secure online payment"
+      }
+   ],
+   "logo":{
+      "url":"https://72.arrowhitech.net/pt2/th/images/LOGO.png"
+   },
+   "footer_links":{
+      "col1":{
+         "title":"Who we Are",
+         "items":[
+            {
+               "name":"About",
+               "link":"#"
+            },
+            {
+               "name":"Team",
+               "link":"#"
+            },
+            {
+               "name":"work With Us",
+               "link":"#"
+            }
+         ]
+      },
+      "col2":{
+         "title":"Woocommerce",
+         "items":[
+            {
+               "name":"Features",
+               "link":"#"
+            },
+            {
+               "name":"Payments",
+               "link":"#"
+            },
+            {
+               "name":"Marketing",
+               "link":"#"
+            },
+            {
+               "name":"Shipping",
+               "link":"#"
+            },
+            {
+               "name":"Extension Store",
+               "link":"#"
+            },
+            {
+               "name":"eCommerce",
+               "link":"#"
+            },
+            {
+               "name":"blog",
+               "link":"#"
+            },
+            {
+               "name":"Ideas board",
+               "link":"#"
+            },
+            {
+               "name":"Mobile App",
+               "link":"#"
+            },
+            {
+               "name":"Community",
+               "link":"#"
+            },
+            {
+               "name":"Style Guide",
+               "link":"#"
+            },
+            {
+               "name":"Email Newsletter",
+               "link":"#"
+            }
+         ]
+      },
+      "col3":{
+         "title":"Other products",
+         "items":[
+            {
+               "name":"Storefront",
+               "link":"#"
+            },
+            {
+               "name":"WooSlider",
+               "link":"#"
+            },
+            {
+               "name":"Sensei",
+               "link":"#"
+            },
+            {
+               "name":"Sensei Extensions",
+               "link":"#"
+            }
+         ]
+      },
+      "col4":{
+         "title":"Support",
+         "items":[
+            {
+               "name":"Documentation",
+               "link":"#"
+            },
+            {
+               "name":"Customizations",
+               "link":"#"
+            },
+            {
+               "name":"Support Policy",
+               "link":"#"
+            },
+            {
+               "name":"Contact",
+               "link":"#"
+            },
+            {
+               "name":"COVID-19 Resources",
+               "link":"#"
+            },
+            {
+               "name":"Privacy Notice for California Users",
+               "link":"#"
+            }
+         ]
+      },
+      "col5":{
+         "title":"We recommend",
+         "items":[
+            {
+               "name":"WooExperts",
+               "link":"#"
+            },
+            {
+               "name":"Hosting Solutions",
+               "link":"#"
+            },
+            {
+               "name":"Pre-sales FAQ",
+               "link":"#"
+            },
+            {
+               "name":"Success Stories",
+               "link":"#"
+            },
+            {
+               "name":"Design Feedback Group",
+               "link":"#"
+            }
+         ]
+      }
+   }
+}
